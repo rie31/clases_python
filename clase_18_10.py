@@ -38,7 +38,7 @@ while c<=5:
 else:
     print("Ha finalizado la iteracion y el valor de c es: ",c)
 """
-c=0
+"""c=0
 while c<=5:
     c+=1
     if c==3 or c==4:
@@ -46,3 +46,6 @@ while c<=5:
     print("c vale: ",c)
 else:
     print("Iteracion terminada c vale ",c)
+    """
+
+
